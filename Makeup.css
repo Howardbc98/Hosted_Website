@@ -1,17 +1,19 @@
+h1{
+  color: Red;
+  font-family: Cursive;
+  }
+
 body{
-  background: cyan;
-  color: red;
+  background-image: url("https://images.samsclubresources.com/is/image/samsclub/0071752480873_A?wid=380&hei=380&qlt=80&op_sharpen=1");
+  background-repeat: repeat;
+  background-size: 80px 60px;
+  text-align: center;
+
 }
+
 p{
   height: 30px;
-  background: black;
-}
-=======
-body{
-  background: cyan;
-  color: red;
-}
-p{
-  height: 30px;
-  background: black;
+  font-family: Cursive;
+  color: black
+
 }
